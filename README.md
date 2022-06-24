@@ -14,8 +14,8 @@
   <img align="center" alt="Luigi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luigi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luigi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Luigi-Avatar" height="150" src="https://cdn.discordapp.com/attachments/763160945916510233/989713071188631612/gifgit_3.gif">
-</div>
+  <img align="right" alt="Luigi-Avatar" height="100" src="https://raw.githubusercontent.com/Luigibei/Luigibei/main/gifgit%20(3).gif">
+  </div>
   
   ##
   
@@ -36,6 +36,6 @@
 - ⚡ Fun fact: ...
 <!--Comments-->
   
-![gifgit (3)](https://user-images.githubusercontent.com/107987119/175451192-fa7ed3f3-6241-474a-9236-817f0541a77a.gif)
+
 
   
