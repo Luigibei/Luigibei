@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luigibei&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luigibei&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+  ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Luigi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luigi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,8 +17,6 @@
   <img align="right" alt="Luigi-Avatar" height="150" src="https://media.discordapp.net/attachments/763160945916510233/990039427915059270/avatar_3_gif.gif">
   <img align="right" alt="avatar-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/763160945916510233/990039427915059270/avatar_3_gif.gif"
        </div>
-
-  
   
   ##
   
