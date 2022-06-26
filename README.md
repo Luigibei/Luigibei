@@ -1,4 +1,4 @@
-## Oi!...Me chamo Luigi 👋❤️😉🐛
+## Oi!...Me chamo Luigi, seja bem-vindo 👋❤️😉🐛
 
 <div align="center">
   <a href="https://github.com/Luigibei">
@@ -27,7 +27,7 @@
   
   ##
   
-  <h1>Header</h1>
+  <h1>Welcome</h1>
   
 - 🔭 I’m currently working on HTML,CSS,JS
 - 🌱 I’m currently learning Python and TS
