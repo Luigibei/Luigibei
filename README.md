@@ -27,7 +27,7 @@
   
   ##
   
-  <h1>Welcome</h1>
+  <div><img src="https://gif-avatars.com/img/90x90/kaneki-1.gif" alt="kaneki.gif" style="width:90px;height:90px;"></div>
   
 - 🔭 I’m currently working on HTML,CSS,JS
 - 🌱 I’m currently learning Python and TS
@@ -39,6 +39,5 @@
 
   <!--Comments-->
   
+  ![mewto](https://user-images.githubusercontent.com/107987119/175808482-de7fa9d6-c5c8-424f-8ebf-f7d6310373f0.gif)
 
-
-  
