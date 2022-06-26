@@ -26,7 +26,7 @@
 </div>
   
   
-  <div><img align="right" src="https://gif-avatars.com/img/90x90/kaneki-1.gif" alt="kaneki.gif" style="width:75px;height:75px;"></div>
+  <div><img align="right" src="https://gif-avatars.com/img/90x90/hacker.gif" alt="dev.gif" style="width:75px;height:75px;"></div>
   
   <h1> Welcome!!!</h1>
   
