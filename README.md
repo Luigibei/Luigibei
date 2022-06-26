@@ -14,6 +14,7 @@
   <img align="center" alt="Luigi-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luigi-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luigi-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Luigi-solidworks" height="40" width="50" src="https://icon-library.com/images/solidworks-icon/solidworks-icon-25.jpg">
   <img align="right" alt="avatar.gif" height="75" width="75" src="https://media.discordapp.net/attachments/763160945916510233/990039427915059270/avatar_3_gif.gif">
   </div>
          
