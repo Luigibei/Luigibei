@@ -25,11 +25,10 @@
   
 </div>
   
-  ##
   
-  <div><img align="right" src="https://gif-avatars.com/img/90x90/kaneki-1.gif" alt="kaneki.gif" style="width:90px;height:90px;"></div>
+  <div><img align="right" src="https://gif-avatars.com/img/90x90/kaneki-1.gif" alt="kaneki.gif" style="width:75px;height:75px;"></div>
   
-  <h1>Welcome!!!</h1>
+  <h1 style="font-size:200px;"> Welcome!!!</h1>
   
 - 🔭 I’m currently working on HTML,CSS,JS
 - 🌱 I’m currently learning Python and TS
