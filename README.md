@@ -59,6 +59,8 @@
 ![wolf-looking-around](https://user-images.githubusercontent.com/107987119/175809596-e7c68ff8-fc6c-415a-a944-30de94e90306.gif)
     ![pozafilelist123](https://user-images.githubusercontent.com/107987119/176103854-81342fea-3a28-47a1-8574-f8d1966295fc.gif)
 ![eyes](https://user-images.githubusercontent.com/107987119/176105033-5a54f059-ddf3-44df-8154-5191f332b1de.gif)
+![madagascar-lion](https://user-images.githubusercontent.com/107987119/176105825-f3e82d49-89bb-45ba-8891-d617789d15be.gif)
+![cute-panda](https://user-images.githubusercontent.com/107987119/176105871-59a47f38-70be-4fba-8826-b4fa6d7e7aa5.gif)
 
   </div>
   
