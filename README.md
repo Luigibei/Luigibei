@@ -85,11 +85,11 @@
   Made with :heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
 </p>
 
-##
+## 
 <div>
 <p align="center"> 
   <img src="https://media.discordapp.net/attachments/763160945916510233/991779418454380625/dino.gif" alt="dinogame" width="100%" style="height:250px;">
 </p> </div>
 
-##
+
 
