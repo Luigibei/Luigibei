@@ -1,4 +1,9 @@
 ## Oi!!!Me chamo Luigi, seja bem-vindo 👋❤️😉🐛
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <br><br>
 
 <div align="center">
   <a href="https://github.com/Luigibei">
@@ -32,7 +37,6 @@
   ![Snake animation](https://github.com/Luigibei/Luigibei/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-  
   
   <div><img align="right" src="https://gif-avatars.com/img/90x90/hacker.gif" alt="dev.gif" style="width:75px;height:75px;"></div>
   
