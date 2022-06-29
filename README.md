@@ -86,3 +86,8 @@
 </p>
 
 ##
+
+<img align="center"> 
+  <img src="https://media.discordapp.net/attachments/763160945916510233/991779418454380625/dino.gif" alt="dinogame" />
+</img> 
+
