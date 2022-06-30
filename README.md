@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%"></p>
   <br><br>
 
 <div align="center">
@@ -91,5 +91,13 @@
   <img src="https://media.discordapp.net/attachments/763160945916510233/991779418454380625/dino.gif" alt="dinogame" width="100%" style="height:250px;">
 </p> </div>
 
+---
 
+<div align="center">
+  
+  
+༼ つ ◕_◕ ༽つ  Please share  
+  
+[![][tweet]][https://twitter.com/_PiZiM]
 
+</div>
