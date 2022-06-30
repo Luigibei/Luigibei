@@ -93,6 +93,6 @@
 
 ---
 <div align="center" div style="display: inline_block">
-༼ つ ◕_◕ ༽つ  Please share... <a href=" https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_PiZiM" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_PiZiM" target="_blank">
+༼ つ ◕_◕ ༽つ  Please share... <a href=" https://twitter.com/_PiZiM" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_PiZiM" target="_blank">
 
 </div>
