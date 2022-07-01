@@ -48,7 +48,7 @@
 - 👯 I’m looking to collaborate in good projects and ideas to improve knowledge
 - 🤔 I’m looking for help with MySQL and PHP
 - 💬 Languages: Portuguese, Italian, English, Spanish
-- 📫 How to reach me: by email or social link badges
+- 📫 How to reach me: by email or social badges
 - ⚡ Fun fact:❤️☕🖥️
   
   <!--Comments-->
