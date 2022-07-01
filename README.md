@@ -96,7 +96,11 @@
 <div align="center" div style="display: inline_block">
   
 ༼ つ ◕_◕ ༽つ  Please get a look and <a href="https://twitter.com/_PiZiM"><img align=center src="https://img.shields.io/twitter/follow/_PiZiM?style=social" target="_blank"></a> 
-  
+   
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/luigibei/count.svg" />
+</p>
   <!--*//<a href="" src=""</a>*//-->
   
 </div>
