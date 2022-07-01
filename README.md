@@ -1,4 +1,4 @@
-## Oi!!!Me chamo Luigi, seja bem-vindo 👋❤️😉🐛
+## Oi!!!Me chamo Luigi, seja bem-vindo 👋❤️😉🐛👽
 <br>
 
 <p align="center">
@@ -98,7 +98,7 @@
 ༼ つ ◕_◕ ༽つ  Please get a look and <a href="https://twitter.com/_PiZiM"><img align=center src="https://img.shields.io/twitter/follow/_PiZiM?style=social" target="_blank"></a> 
    
 <p align="center"> 
-  Visitor count<br>
+  Visitor counter 👽<br>
   <img src="https://profile-counter.glitch.me/luigibei/count.svg" />
 </p>
   <!--*//<a href="" src=""</a>*//-->
