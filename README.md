@@ -32,7 +32,8 @@
  <a href="https://discord.gg/wRXx5XK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luigibeii13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pier-luigi-bei-34718a156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/_PiZiM"><img align=right src="https://img.shields.io/twitter/follow/_PiZiM?style=social" target="_blank"></a> 
+    <a href = "https://www.facebook.com/PiZimm/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"</a> 
+      <a href="https://twitter.com/_PiZiM"><img align=right src="https://img.shields.io/twitter/follow/_PiZiM?style=social" target="_blank"></a> 
     
   ![Snake animation](https://github.com/Luigibei/Luigibei/blob/output/github-contribution-grid-snake.svg)
   
@@ -94,6 +95,6 @@
 ---
 <div align="center" div style="display: inline_block">
   
-༼ つ ◕_◕ ༽つ  Please share... <!--*//<a href="" src=""</a>*//-->
+༼ つ ◕_◕ ༽つ  Please share...<!--*//<a href="" src=""</a>*//-->
   
 </div>
