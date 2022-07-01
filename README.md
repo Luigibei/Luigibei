@@ -47,8 +47,8 @@
 - 🌱 I’m currently learning Python and TS
 - 👯 I’m looking to collaborate in good projects and ideas to improve knowledge
 - 🤔 I’m looking for help with MySQL and PHP
-- 💬 Ask me about ...
-- 📫 How to reach me:...
+- 💬 Languages: Portuguese, Italian, English, Spanish
+- 📫 How to reach me: by email or social link badges
 - ⚡ Fun fact: ...
 
   
