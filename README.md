@@ -49,7 +49,7 @@
 - 🤔 I’m looking for help with MySQL and PHP
 - 💬 Languages: Portuguese, Italian, English, Spanish
 - 📫 How to reach me: by email or social badges
-- ⚡ Fun fact:❤️☕🖥️
+- ⚡ Fun fact:❤️ 🖥️ ☕
   
   <!--Comments-->
   
