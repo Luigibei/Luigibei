@@ -95,7 +95,7 @@
 ---
 <div align="center" div style="display: inline_block">
   
-༼ つ ◕_◕ ༽つ  Please get a look and <a href="https://twitter.com/_PiZiM"><img align=center src="https://img.shields.io/twitter/follow/_PiZiM?style=social" target="_blank"></a>
+༼ つ ◕_◕ ༽つ  Please get a look and ... <a href="https://twitter.com/_PiZiM"><img align=center src="https://img.shields.io/twitter/follow/_PiZiM?style=social" target="_blank"></a>
 <a><img align="right" alt="qr-code" height="100" width="100" src="https://media.discordapp.net/attachments/763160945916510233/992651871024054312/QR_Code.png"></a>
    
 <p align="center"> 
