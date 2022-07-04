@@ -1,5 +1,5 @@
 ## Oi!!!Me chamo Luigi, seja bem-vindo 👋❤️😉🐛👽
-<br>
+
 <div>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/107987119/177223427-07e2283f-a3f1-4d22-9318-5a7f610b3cea.png" alt="lifebg" width="100%" style="height:500px;">
