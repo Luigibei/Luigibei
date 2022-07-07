@@ -55,12 +55,13 @@
 - 💬 Languages: Portuguese, Italian, English, Spanish
 - 📫 How to reach me: by email or social badges
 - ⚡ Fun fact:❤️ 🖥️ ☕
+---
   
   <!--Comments-->
   
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
     
-    ![avatar 150x1503](https://user-images.githubusercontent.com/107987119/175808754-3fecf9a8-a814-4705-a3b2-f882a69080bd.gif)
+   ![avatar 150x1503](https://user-images.githubusercontent.com/107987119/175808754-3fecf9a8-a814-4705-a3b2-f882a69080bd.gif)
   ![mewto](https://user-images.githubusercontent.com/107987119/175808482-de7fa9d6-c5c8-424f-8ebf-f7d6310373f0.gif)
 ![anime-girl-3](https://user-images.githubusercontent.com/107987119/175809354-5a3000a6-9dc6-4976-b879-6fc24f5c182f.gif)
 ![kedyy](https://user-images.githubusercontent.com/107987119/175809391-476d58e0-d9ae-41f9-ae3b-0cdb1158f631.gif)
