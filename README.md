@@ -29,6 +29,8 @@
          
   ##
   
+   ![Snake animation](https://github.com/Luigibei/Luigibei/blob/output/github-contribution-grid-snake.svg)
+  
   <div> 
   <a href="https://www.youtube.com/channel/UCLvjUOE0mSjU3SY5G7H_3Vw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/luigibei/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -40,8 +42,6 @@
       <a href="https://twitter.com/_PiZiM"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
       <a href="https://www.paypal.com/donate/?hosted_button_id=WD2W362VD7JUS"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a> 
     
-  ![Snake animation](https://github.com/Luigibei/Luigibei/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
   
   <div><img align="right" src="https://gif-avatars.com/img/90x90/hacker.gif" alt="dev.gif" style="width:75px;height:75px;"></div>
