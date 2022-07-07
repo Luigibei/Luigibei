@@ -46,7 +46,7 @@
   
   <div><img align="right" src="https://gif-avatars.com/img/90x90/hacker.gif" alt="dev.gif" style="width:75px;height:75px;"></div>
   
-  <h2> Welcome!!!</h2>
+  <h1> Welcome!!!</h1>
   
 - 🔭 I’m currently working on HTML,CSS,JS
 - 🌱 I’m currently learning Python and TS
