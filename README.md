@@ -2,11 +2,11 @@
 
 <div>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/107987119/177223427-07e2283f-a3f1-4d22-9318-5a7f610b3cea.png" alt="lifebg" width="80%">
+<img src="https://user-images.githubusercontent.com/107987119/177223427-07e2283f-a3f1-4d22-9318-5a7f610b3cea.png" alt="lifebg" max-width="80%">
   </p></div>
 
 <!--*//<p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="40%"></p>
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" max-width="40%"></p>
   <br>*//-->
 
 <div align="center">
@@ -93,7 +93,7 @@
 --- 
 <div>
 <p align="center"> 
-  <img src="https://media.discordapp.net/attachments/763160945916510233/991779418454380625/dino.gif" alt="dinogame" width="100%" style="height:250px;">
+  <img src="https://media.discordapp.net/attachments/763160945916510233/991779418454380625/dino.gif" alt="dinogame" max-width="100%" style="height:250px;">
 </p> </div>
 
 ---
