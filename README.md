@@ -57,7 +57,7 @@
 - ⚡ Fun fact:❤️ 🖥️ ☕
 ---
   
-  <!--Comments-->
+  <!--gifs-->
   
   <div style="display: inline_block">
     
