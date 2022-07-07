@@ -99,8 +99,11 @@
 
 ---
     
-   <img width="100%" src="https://github-readme-twitter-gazf.vercel.app/api?id=_Pizim&layout=wide&show_reply=off&show_retweet=off" />
-    
+   <div align="center">
+  <a href="https://twitter.com/_Pizim">
+  <img width="900em" src="https://github-readme-twitter-gazf.vercel.app/api?id=_Pizim&layout=wide&show_reply=off&show_retweet=off"/>
+</div> 
+   
 ---
     
 <div align="center" div style="display: inline_block">
