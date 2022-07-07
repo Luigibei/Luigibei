@@ -98,6 +98,11 @@
 </p> </div>
 
 ---
+    
+   <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=_Pizim&layout=wide&show_reply=off&show_retweet=off" />
+    
+---
+    
 <div align="center" div style="display: inline_block">
   
 ༼ つ ◕_◕ ༽つ  Please get a look and <a href="https://twitter.com/_PiZiM"><img align=center src="https://img.shields.io/twitter/follow/_PiZiM?style=social" target="_blank">
