@@ -40,7 +40,7 @@
  <a href="https://discord.gg/wRXx5XK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a> 
   <a href = "mailto:luigibeii13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/pier-luigi-bei-34718a156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
-<a href = "https://www.facebook.com/PiZimm/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-thebadge&logo=facebook&logoColor=white"</a> 
+<a href = "https://www.facebook.com/PiZimm/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"</a> 
       <a href="https://twitter.com/_PiZiM" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"</a> 
       <a href="https://www.paypal.com/donate/?hosted_button_id=WD2W362VD7JUS" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"</a> 
     
