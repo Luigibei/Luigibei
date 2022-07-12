@@ -78,8 +78,9 @@ Welcome!!!
   </div>
   
   ---
-  
-  </details>
+  <!--<details>
+  LOVE
+  </details>-->
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
