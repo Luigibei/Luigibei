@@ -1,4 +1,4 @@
-<head><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0">
 <header>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luigi Bei<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"</h1>
   </header>
