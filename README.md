@@ -119,7 +119,7 @@ Welcome!!!
    
    
 <p align="center"> 
-  Visitor counter 👽<br>
+ 👽 Visitor counter 👽<br>
   <img src="https://profile-counter.glitch.me/luigibei/count.svg" />
   </p>
  </div>
