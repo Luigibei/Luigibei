@@ -52,7 +52,7 @@
  
   
 Welcome!!!
- ---
+---
 - 🔭 I’m currently working on HTML,CSS,JS
 - 🌱 I’m currently learning Python and TS
 - 👯 I’m looking to collaborate in good projects and ideas to improve knowledge
