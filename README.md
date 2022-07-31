@@ -64,7 +64,7 @@ Welcome!!!
   
   <!--gifs-->
   
-  <div style="display: inline_block">
+  <div align="center" style="display: inline_block">
     
    ![avatar 150x1503](https://user-images.githubusercontent.com/107987119/175808754-3fecf9a8-a814-4705-a3b2-f882a69080bd.gif)
   ![mewto](https://user-images.githubusercontent.com/107987119/175808482-de7fa9d6-c5c8-424f-8ebf-f7d6310373f0.gif)
