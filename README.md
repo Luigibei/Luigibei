@@ -33,7 +33,11 @@
          
   ##
   
+  <div align="center">
+    
    ![Snake animation](https://github.com/Luigibei/Luigibei/blob/output/github-contribution-grid-snake.svg)
+    
+  </div>
   
   <div> 
   <a href="https://www.youtube.com/channel/UCLvjUOE0mSjU3SY5G7H_3Vw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -47,6 +51,7 @@
       <a href="https://www.paypal.com/donate/?hosted_button_id=WD2W362VD7JUS" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"</a> 
     
 </div>
+        <br>
   
   <div><img align="right" src="https://gif-avatars.com/img/90x90/hacker.gif" alt="dev.gif" style="width:75px;height:75px;"></div>
  
