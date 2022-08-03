@@ -114,13 +114,12 @@ Welcome!!!
   <a href="https://twitter.com/_Pizim">
   <img width="900em" src="https://github-readme-twitter-gazf.vercel.app/api?id=_Pizim&layout=wide&show_reply=off&show_retweet=off"/>
 </div> 
+     <div align="center" div style="display: inline_block">
+  
+<img align=center src="https://img.shields.io/twitter/follow/_PiZiM?style=social">
    
 ---
     
-<div align="center" div style="display: inline_block">
-  
-<img align=center src="https://img.shields.io/twitter/follow/_PiZiM?style=social">
-
 <!--*//<img align="right" alt="qr-code" height="70" width="70" src="https://media.discordapp.net/attachments/763160945916510233/992651871024054312/QR_Code.png"></a>*//-->
    
    
