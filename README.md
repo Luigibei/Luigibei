@@ -119,7 +119,7 @@ Welcome!!!
     
 <div align="center" div style="display: inline_block">
   
-༼ つ ◕_◕ ༽つ  Please get a look and <a href="https://twitter.com/_PiZiM" target="_blank"><img align=center src="https://img.shields.io/twitter/follow/_PiZiM?style=social">
+<img align=center src="https://img.shields.io/twitter/follow/_PiZiM?style=social">
 
 <!--*//<img align="right" alt="qr-code" height="70" width="70" src="https://media.discordapp.net/attachments/763160945916510233/992651871024054312/QR_Code.png"></a>*//-->
    
