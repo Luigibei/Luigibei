@@ -134,4 +134,3 @@ Welcome!!!
      
   <!--*//...👽ALIENS ARE COOL👽... *//-->
 
-   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="797935cb-9143-492a-8867-cc89e0e4fd09" data-share-badge-host="https://www.credly.com"></div>
