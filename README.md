@@ -27,6 +27,7 @@
   <img align="center" alt="Luigi-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luigi-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Luigi-solidworks" height="40" width="50" src="https://icon-library.com/images/solidworks-icon/solidworks-icon-25.jpg">
+   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="797935cb-9143-492a-8867-cc89e0e4fd09" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
   <img align="right" alt="avatar.gif" height="75" width="75" src="https://media.discordapp.net/attachments/763160945916510233/990039427915059270/avatar_3_gif.gif">
   </div>
